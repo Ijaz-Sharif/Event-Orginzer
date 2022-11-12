@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756941495763",
+    "project_id": "event-orginzer",
+    "storage_bucket": "event-orginzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756941495763:android:5a6ba55cc7f37e1e9aa326",
+        "android_client_info": {
+          "package_name": "com.patach.eventorginzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756941495763-pvmqedh0v1kkg35ncr8m97phfjrlo4m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FYxQohQVqdALQfRTu8h_mhFBYjD5i8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756941495763-pvmqedh0v1kkg35ncr8m97phfjrlo4m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

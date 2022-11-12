@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+
+    <item
+        android:title="View Friend List"
+        android:id="@+id/friendlist"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:title="Add Post"
+        android:id="@+id/add_post"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:title="Add Event"
+        android:id="@+id/add_event"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:title="logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_logout_24"/>
+</menu>
